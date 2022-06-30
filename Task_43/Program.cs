@@ -24,3 +24,4 @@ int Input(string output)
     Console.Write(output);
     return Convert.ToInt32(Console.ReadLine());
 }
+
